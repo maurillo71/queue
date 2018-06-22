@@ -1,4 +1,4 @@
 queue
 =====
 
-Simple FIFO circular buffer imlpementation.
+Simple FIFO circular buffer implementation.
